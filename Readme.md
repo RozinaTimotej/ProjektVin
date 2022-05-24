@@ -53,3 +53,7 @@ Pri projektu sem uporabil naslednje komponente:
 > > * D0-D7 - LCD podatkovno vodilo. So tu za paralelni prenos podatkov
 > > * LED+ - Anoda za osvetlitev odzadja (3.3V)
 > > * LED- - Katoda za osvetlitev odzadja (GND)
+> > 
+> > LCD zaslon sem uporabil za izpis vseh pomembnih informacij (Prblizajte kartico, Vpisite ime, Sporocilo o uspesnosti/neuspesnosti in pozdrav z imenom uporabnika.)
+> ### Serijska komunikacija z računalnikom
+> > Na koncu sem dodal še, da ob dodajanju kartice sistem vpraša za ime, s katerim nato asocira s čipom. Ko je kartica dodana in ime vpisano, si lahko uporabnik odklene vrata ( sistem ga tudi pozdravi z: "Zivjo <ime>"), zato bi lahko sistem uporabljali tudi za npr. štetje ur delavcev ipd.
