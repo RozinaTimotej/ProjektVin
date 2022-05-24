@@ -1,7 +1,7 @@
 # Projekt pri predmetu VIN (RFID "odklepanje" vrat)
 
 ## Osnovna ideja
-Za svoj projekt bom s pomočjo RFID modula (Rc522) in kartice odklepal  vrata (v mojem primeru bo namesto ključavnice le LED dioda ki bo kazala stanje vrat). Možna bo tudi dodaja nove kartice s pritiskom na gumb. 
+Za svoj projekt bom s pomočjo RFID modula (Rc522) in kartice odklepal  vrata (v mojem primeru bo namesto ključavnice le LED dioda ki bo kazala stanje vrat). Možna bo tudi dodaja nove kartice s pritiskom na gumb. Na koncu pa sem še dodal, da preko serijske komunikacije uporabnik vpiše ime, sistem pa ga nato preko LCD zaslona pozdravi.
 
 ## Video demonstracije končnega projekta (pritisk za povezavo na video)
 [![Demonstracija projekta](https://img.youtube.com/vi/4G5TbsRWuYs/maxresdefault.jpg)](https://www.youtube.com/shorts/4G5TbsRWuYs)
