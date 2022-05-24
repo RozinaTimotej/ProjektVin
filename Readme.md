@@ -41,7 +41,7 @@ Pri projektu sem uporabil naslednje komponente:
 > ### LED
 > > Uporabil sem navadno zeleno LED diodo. Ko uporabnik prisloni kartico na bralnik in je ta pravilna (ima dovoljenje za odklepanje) se LED dioda zasveti, kar nakazuje na odklep vrat.
 > ### LCD zaslon 16x2
-> > ![image](https://user-images.githubusercontent.com/61662167/170113420-f43c1bd5-c515-4b88-a073-200a2992ea4c.png)
+> > ![image](https://user-images.githubusercontent.com/61662167/170117990-522f8e36-b3e2-4563-8724-a9793d009c81.png)
 > > 
 > > LCD zaslon 16x2 ima možnost dodajanja 16 črtk v 2 vrstici.
 > > * VSS - Povezava na gnd
