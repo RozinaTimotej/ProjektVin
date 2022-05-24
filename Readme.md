@@ -56,4 +56,4 @@ Pri projektu sem uporabil naslednje komponente:
 > > 
 > > LCD zaslon sem uporabil za izpis vseh pomembnih informacij (Prblizajte kartico, Vpisite ime, Sporocilo o uspesnosti/neuspesnosti in pozdrav z imenom uporabnika.)
 > ### Serijska komunikacija z računalnikom
-> > Na koncu sem dodal še, da ob dodajanju kartice sistem vpraša za ime, s katerim nato asocira s čipom. Ko je kartica dodana in ime vpisano, si lahko uporabnik odklene vrata ( sistem ga tudi pozdravi z: "Zivjo <ime>"), zato bi lahko sistem uporabljali tudi za npr. štetje ur delavcev ipd.
+> > Na koncu sem dodal še, da ob dodajanju kartice sistem vpraša za ime, katerega nato asociira s čipom. Ko je kartica dodana in ime vpisano, si lahko uporabnik odklene vrata ( sistem ga tudi pozdravi z: "Zivjo <ime>"), zato bi lahko sistem uporabljali tudi za npr. štetje ur delavcev ipd.
