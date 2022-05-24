@@ -6,8 +6,8 @@ Za svoj projekt bom s pomočjo RFID modula (Rc522) in kartice odklepal  vrata (v
 ## Video demonstracije končnega projekta (pritisk za povezavo na video)
 [![Demonstracija projekta](https://img.youtube.com/vi/4G5TbsRWuYs/maxresdefault.jpg)](https://www.youtube.com/shorts/4G5TbsRWuYs)
 
-## Video demonstracije končnega projekta (pritisk za povezavo na video)
-Za ogled povezav (pinout) je priložena tudi slika v ./vinprojekt/scheme.png
+## Pinout
+Za ogled povezav med komponenti (pinout) je priložena tudi slika v ./vinprojekt/scheme.png
 
 ## Komponente
 Pri projektu sem uporabil naslednje komponente:
